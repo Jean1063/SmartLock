@@ -21,4 +21,4 @@ Serrure electrique commandée par smartphone
 
 # Schéma électronique  
 
-![global view](https://github.com/Jean1063/SmartLock/blob/main/images/Elecsmartlock.PNG?raw=true)
+![Schéma électronique](https://github.com/Jean1063/SmartLock/blob/main/images/Elecsmartlock.png?raw=true)
